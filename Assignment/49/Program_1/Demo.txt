@@ -1,5 +1,0 @@
-TEJAS bora MArVelousNo internet
-Try:
-Checking the network cables, modem, and router
-Reconnecting to Wi-Fi
-Running Windows Network Diagnostics
